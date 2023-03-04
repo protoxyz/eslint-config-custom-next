@@ -1,0 +1,16 @@
+{
+    "name": "@protoxyz/eslint-config-custom-next",
+    "version": "0.0.0",
+    "private": true,
+    "license": "MIT",
+    "main": "index.js",
+    "dependencies": {
+        "eslint-config-next": "latest",
+        "eslint-config-prettier": "^8.6.0",
+        "eslint-config-turbo": "latest",
+        "eslint-plugin-react": "7.28.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
